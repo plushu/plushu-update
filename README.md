@@ -1,4 +1,3 @@
-plushu-update
-=============
+# plushu-update-plugin
 
-Plushu plugin that calls all known update hooks (plugins and buildpacks)
+Plushu plugin to update core, plugins, and everything else
